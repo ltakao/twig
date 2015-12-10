@@ -19,4 +19,4 @@ $twig = new Twig_Environment(
 			array('cache' => false)
 		);
 
-echo $twig->render('base.tpl.php', array('nome' => 'Fulano da Silva'));
+echo $twig->render('base.tpl.php', array('nome' => 'Zé Ninguém'));
