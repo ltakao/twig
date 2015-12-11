@@ -18,3 +18,7 @@
 	</div>
 
 {% endblock %}	
+
+{% block js %}   
+	<!-- Sobrescreve declaração do base.tpl.php -->
+{% endblock %}
